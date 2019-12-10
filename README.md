@@ -216,7 +216,6 @@ let newArrayInDeleted = ["a", "b", "d"]
 let differenceInDeleted = newArrayInDeleted.difference(from: oldArrayInDeleted)
 print(differenceInDeleted)
 
-print("")
 print("==If inserted==")
 
 let oldArrayInInserted = ["a", "b", "c", "d"]
